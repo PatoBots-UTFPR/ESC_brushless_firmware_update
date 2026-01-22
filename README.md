@@ -28,7 +28,7 @@ Os ESCs brushless podem ser **BLHeli_S** ou **BLHeli_32**. Neste guia, utilizare
 - O ESC deve estar alimentado com uma bateria 2S ou 3S
 
 ### Diagrama do Circuito:
-![Esquemático](assets/esquematico.jpg)
+<img src="assets/esquematico.jpeg" alt="Esquemático" width="600">
 
 > **Obs:** Na imagem há algumas gambiarras. Recomenda-se fazer as conexões de forma mais segura.
 
@@ -46,7 +46,7 @@ Os ESCs brushless podem ser **BLHeli_S** ou **BLHeli_32**. Neste guia, utilizare
 ### 3º Passo: Acessar "Make Interfaces"
 - No menu superior, escolha a opção **"Make Interfaces"**
 
-![Passo 3](assets/passo3.jpg)
+<img src="assets/passo3.png" alt="Passo 3" width="600">
 
 ### 4º Passo: Configurar o Arduino como Interface
 Nesta aba, configure os seguintes parâmetros:
@@ -56,7 +56,7 @@ Nesta aba, configure os seguintes parâmetros:
 - **c)** No canto inferior esquerdo, selecione a **porta COM correta** do Arduino Nano
 - **d)** Clique em **"Arduino BLHeli Bootloader"**
 
-![Passo 4](assets/passo4.jpg)
+<img src="assets/passo4.png" alt="Passo 4" width="600">
 
 > ✅ Você deve obter uma mensagem de **Sucesso!**
 
@@ -70,7 +70,7 @@ Volte para a aba **"Silab ESC Setup"**. No canto inferior direito, configure:
 
 Ao final desses passos, você obterá a seguinte tela:
 
-![Passo 5](assets/passo5.jpg)
+<img src="assets/passo5.jpeg" alt="Passo 5" width="600">
 
 ---
 
