@@ -28,9 +28,9 @@ Os ESCs brushless podem ser **BLHeli_S** ou **BLHeli_32**. Neste guia, utilizare
 - O ESC deve estar alimentado com uma bateria 2S ou 3S
 
 ### Diagrama do Circuito:
-<img src="assets/esquematico.jpeg" alt="Esquemático" width="600">
+<img src="assets/esquematico.png" alt="Esquemático" width="600">
 
-> **Obs:** Na imagem há algumas gambiarras. Recomenda-se fazer as conexões de forma mais segura.
+> **Obs:** Na imagem esquematico.jpg há algumas gambiarras. Recomenda-se fazer as conexões de forma mais segura.
 
 ---
 
